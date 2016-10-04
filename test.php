@@ -11,5 +11,7 @@ namespace test;
 
 class test
 {
+    public static function get(){
 
+    }
 }
